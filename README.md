@@ -16,7 +16,7 @@ Universitas: Telkom University
 
 ## Deskripsi
 
-Repository ini membahas Chapter 1 sampai Chapter 4 dengan menggunakan Python dan Jupyter Notebook.
+Repository ini membahas Chapter 1 sampai Chapter 7 dengan menggunakan Python dan Jupyter Notebook.
 
 ## Chapter yang Dibahas
 
@@ -67,7 +67,7 @@ Materi meliputi:
 
 ### Chapter 3 - Statistical Experiments and Significance Testing
 
-Chapter ini membahas eksperimen statistik dan pengujian hipotesis.
+Chapter ini membahas eksperimen statistik dan pengujian signifikansi.
 
 Materi meliputi:
 - A/B testing
@@ -117,6 +117,40 @@ Materi meliputi:
 - polynomial regression
 - spline regression
 - generalized additive models
+
+### Chapter 5 - Classification
+
+Chapter ini membahas metode klasifikasi untuk memprediksi variabel target kategorikal.
+
+Materi meliputi:
+- Naive Bayes classification
+- Discriminant Analysis (LDA & QDA)
+- Logistic Regression dan logit link function
+- odds ratio dan Maximum Likelihood Estimation
+- evaluasi model klasifikasi (confusion matrix, precision, recall, specificity, ROC, AUC, lift)
+- strategi imbalanced data (oversampling, undersampling, class weight)
+
+### Chapter 6 - Statistical Machine Learning
+
+Chapter ini membahas metode Machine Learning berbasis statistik untuk tugas klasifikasi dan regresi non-parametrik.
+
+Materi meliputi:
+- K-Nearest Neighbors (KNN) dan metrik jarak
+- Decision Trees, Gini Impurity, Entropy, dan pruning
+- Bagging dan Random Forests
+- Variable Importance (Gini Importance)
+- Boosting (Gradient Boosting / XGBoost)
+
+### Chapter 7 - Unsupervised Learning
+
+Chapter ini membahas metode Unsupervised Learning untuk menemukan struktur dan kelompok tersembunyi pada data tanpa label.
+
+Materi meliputi:
+- Principal Components Analysis (PCA) dan Scree Plot
+- K-Means Clustering, Elbow Method, dan Silhouette Score
+- Hierarchical Clustering dan Dendrogram
+- Model-Based Clustering (Gaussian Mixture Models / GMM)
+- Scaling dan pemrosesan variabel kategorikal dalam clustering
 
 ## Tujuan
 
